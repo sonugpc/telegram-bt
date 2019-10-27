@@ -26,6 +26,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 * https://telegram.computer (hosted on GitHub pages, Available until 20 October 2020)
 * https://zhukov.github.io/webogram (hosted on GitHub pages, Permanent Domain)
 * https://telegram-web-us.herokuapp.com (hosted on Heroku Free Plan, App Sleeps)
+* https://webtelegramorg.bhadoo.repl.co (hosted on repl.it)
 
 ## Deploy to Github Pages (Custom Domain Supported)
 
