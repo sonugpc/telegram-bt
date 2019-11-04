@@ -8,6 +8,11 @@ Code from https://github.com/zhukov/webogram/tree/gh-pages
 
 Telegram is banned in several countries, in India Telegram is blocked on several networks including Jio and Airtel. So in this repo i will continuously provide new domains to access Telegram without compromising privacy or security of your data.
 
+## Blocked URLs by Different Countries
+
+* https://*.web.telegram.org
+* * can be replaced with ["pluto","venus","aurora","vesta","flora"]
+
 ## Domains Current Status, Availability and Downtime
 
 * https://telegram-status.hashhackers.com
