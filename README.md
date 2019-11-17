@@ -4,6 +4,9 @@ Un-Official Un-edited Telegram Web Client with Different Domains
 
 Code from https://github.com/zhukov/webogram/tree/gh-pages
 
+    Don't want to know how this work, but need to access Telegram Web Try below link.
+https://web.telegram.hashhackers.com
+
 ## Why this Repo?
 
 Telegram is banned in several countries, in India Telegram is blocked on several networks including Jio and Airtel. So in this repo i will continuously provide new domains to access Telegram without compromising privacy or security of your data.
@@ -11,11 +14,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 ## Blocked URLs by Different Countries
 
 * https://*.web.telegram.org
-* * can be replaced with ["pluto","venus","aurora","vesta","flora"]
-
-## Domains Current Status, Availability and Downtime
-
-* https://telegram-status.hashhackers.com
+* `*` can be replaced with ["pluto","venus","aurora","vesta","flora"]
 
 ## List of Domains
 
@@ -32,6 +31,10 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 * https://zhukov.github.io/webogram (hosted on GitHub pages, Permanent Domain)
 * https://telegram-web-us.herokuapp.com (hosted on Heroku Free Plan, App Sleeps)
 * https://webtelegramorg.bhadoo.repl.co (hosted on repl.it)
+
+## Domains Current Status, Availability and Downtime
+
+* https://telegram-status.hashhackers.com
 
 ## Deploy to Github Pages (Custom Domain Supported)
 
