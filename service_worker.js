@@ -126,6 +126,7 @@ function deleteAllCaches() {
   });
 }
 
+
 self.addEventListener('install', function(event) {
   event.waitUntil(
     // Take a look at each of the cache names we expect for this version.
