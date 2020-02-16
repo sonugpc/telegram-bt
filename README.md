@@ -52,7 +52,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 
 ## Deploy to Zeit.co (now.sh) (Custom Domain Supported)
 
-[![Deploy](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/ParveenBhadooOfficial/web.telegram.org)
+Fork the Repo and manually deploy to now.sh
 
 ## Deploy to Heroku (Custom Domain Supported in Paid Plans)
 
